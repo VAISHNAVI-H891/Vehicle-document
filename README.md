@@ -43,5 +43,9 @@ strong performance metrics. QR codes were scanned in under two seconds on averag
 accuracy in detecting fake documents or QR codes. The penalty generation module
 consistently applied RTO rules to calculate fines, confirming its reliability. Overall, the
 system significantly reduces manual verification efforts while enhancing the accuracy, speed, and security of traffic enforcement processes
+![image](https://github.com/user-attachments/assets/9dbec2e2-edf9-44d9-9c6c-54b66f384417)
 ![image](https://github.com/user-attachments/assets/a336626e-7899-410d-b030-7490be8bc055)
-![image](https://github.com/user-attachments/assets/64531a02-f94e-4f67-a56a-4388e2bcd55a)
+![image](https://github.com/user-attachments/assets/216ea72b-4789-49e9-8ab9-f0bb081f241a)
+![image](https://github.com/user-attachments/assets/56fd5767-3c19-434d-9413-32e12238d355)
+
+
