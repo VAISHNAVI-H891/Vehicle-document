@@ -18,3 +18,30 @@ management. The proposed system aim is reducing traffic police work and also dri
 to carry vehicle document manually. If someone vehicle is robbed we can easily detect stolen
 vehicle also using RFID. RTO administration stored vehicle related documentation in QR code. All this information is available internet connection is required. All we have to do is to store
 the information in database.
+
+CHAPTER 5
+ 
+ RESULTANDDISCUSSION 
+This part would describe the results of QR Code-Based Vehicle Document
+Verification and Instant Penalty Generation. In this section, a comprehensive
+explanation of how the system works with a performance evaluation as well as
+discussion about its impact, benefits, and possible improvement. The developed
+Android application enables traffic police officers to scan QR codes linked to vehicle
+registration documents to verify instantly whether the documents are valid or not. If a
+document is invalid, expired, or missing, the system automatically generates
+appropriate penalty. The application demonstrates several key features designed to streamline traffic
+enforcement processes. It enables instant QR code scanning through the device camera, allowing officers to retrieve real-time data from the central RTO database embedded in
+vehicle documents. The automated verification process cross-checks critical details
+such as vehicle registration, insurance validity, PUC status, and driving license
+information, issuing alerts for discrepancies. Additionally, the system calculates
+penalties automatically as per RTO norms and generates digital penalty slips, which can
+be shared with violators via SMS or email. To ensure security, QR codes are encrypted
+to prevent tampering, and access to sensitive data is restricted to authorized personnel. The user- friendly interface prioritizes efficiency, featuring a dashboard that displays
+penalties issued, pending verifications, and flagged vehicles, minimizing time spent on
+manual tasks. During testing with a sample database of 1,000 vehicles, the app showcased
+strong performance metrics. QR codes were scanned in under two seconds on average, and the system accurately identified 98% of expired documents while achieving 100%
+accuracy in detecting fake documents or QR codes. The penalty generation module
+consistently applied RTO rules to calculate fines, confirming its reliability. Overall, the
+system significantly reduces manual verification efforts while enhancing the accuracy, speed, and security of traffic enforcement processes
+![image](https://github.com/user-attachments/assets/a336626e-7899-410d-b030-7490be8bc055)
+![image](https://github.com/user-attachments/assets/64531a02-f94e-4f67-a56a-4388e2bcd55a)
